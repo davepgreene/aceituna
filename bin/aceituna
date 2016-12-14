@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+'use strict';
+const Aceituna = require('../index');
+
+Aceituna.then((data) => {
+  console.log(data);
+});
