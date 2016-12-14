@@ -1,0 +1,16 @@
+{
+  "name": "aceituna",
+  "version": "1.0.0",
+  "description": "Drool worthy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dave Greene <davepgreene@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "image-to-ascii": "^3.0.5",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
